@@ -5,7 +5,7 @@ var poitiers = new google.maps.LatLng(46.580446,0.336622);
 function initialize() {
 
     var mapOptions = {
-        zoom: 13
+        zoom: 15
     };
 
     map = new google.maps.Map(document.getElementById('map-canvas'),mapOptions);
