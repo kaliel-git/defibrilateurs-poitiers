@@ -2,6 +2,10 @@
 Test open data ultra basic
 liste des [défibrilateurs](http://fr.wikipedia.org/wiki/D%C3%A9fibrillateur_automatique) sur Poitiers
 
+<<<<<<< HEAD
+=======
+demo : [http://kaliel86.github.io/defibrilateurs-poitiers](http://kaliel86.github.io/defibrilateurs-poitiers)
+>>>>>>> master
 ##TODO
 
  - Calcul distance entre la position actuelle et les défibrillateurs (à pied et en voiture)
@@ -9,4 +13,8 @@ liste des [défibrilateurs](http://fr.wikipedia.org/wiki/D%C3%A9fibrillateur_aut
  - Ouvrir itinéraire vers le défibrillateur sélectionné
  - localStorage du json, le webservice à du mal pour le moment
  - ergonomie
+<<<<<<< HEAD
+=======
+ - ecma6 ?
+>>>>>>> master
  - portage sur android
