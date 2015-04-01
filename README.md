@@ -10,4 +10,5 @@ demo : [http://kaliel86.github.io/defibrilateurs-poitiers](http://kaliel86.githu
  - Ouvrir itinéraire vers le défibrillateur sélectionné
  - localStorage du json, le webservice à du mal pour le moment
  - ergonomie
+ - ecma6 ?
  - portage sur android
