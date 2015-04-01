@@ -1,6 +1,7 @@
 var map;
 var poitiers = new google.maps.LatLng(46.580446,0.336622);
 
+
 function initialize() {
 
     var mapOptions = {
@@ -12,6 +13,11 @@ function initialize() {
     //https ? no need ! #PJLRenseignement
     //map.data.loadGeoJson('http://inspire.sgmap.fr/api/datasets/54e30715410fc47e759a3cba/resources/54e30715410fc47e759a3ccd/download?format=GeoJSON&projection=WGS84');
     map.data.loadGeoJson('data.json');
+
+    map.data.setStyle({
+        icon: 'coeur.png'
+    });
+
 
 
     //geolocalisable ?
