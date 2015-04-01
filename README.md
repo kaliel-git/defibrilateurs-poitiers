@@ -1,2 +1,12 @@
-# defibrilateurs-poitiers
-test open data, liste des défibrilateurs sur Poitiers
+# Liste des défibrilateurs de poitiers
+Test open data ultra basic
+liste des [défibrilateurs](http://fr.wikipedia.org/wiki/D%C3%A9fibrillateur_automatique) sur Poitiers
+
+##TODO
+
+ - Calcul distance entre la position actuelle et les défibrillateurs (à pied et en voiture)
+ - Lister les emplacements selon distance
+ - Ouvrir itinéraire vers le défibrillateur sélectionné
+ - localStorage du json, le webservice à du mal pour le moment
+ - ergonomie
+ - portage sur android
