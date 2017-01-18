@@ -1,15 +1,10 @@
 # Liste des défibrilateurs de poitiers
-Test open data ultra basic
-liste des [défibrilateurs](http://fr.wikipedia.org/wiki/D%C3%A9fibrillateur_automatique) sur Poitiers
 
-demo : [http://kaliel86.github.io/defibrilateurs-poitiers](http://kaliel86.github.io/defibrilateurs-poitiers)
+Projet perso d'application cross platform permettant de trouver le défibrilateur le plus proche de sa position actuelle.
 
-##TODO
-
- - Calcul distance entre la position actuelle et les défibrillateurs (à pied et en voiture)
- - Lister les emplacements selon distance
- - Ouvrir itinéraire vers le défibrillateur sélectionné
- - localStorage du json, le webservice à du mal pour le moment
- - ergonomie
- - ecma6 ?
- - portage sur android
+##Notes pour moi même
+ - [Typo Muli](https://fonts.google.com/specimen/Muli)
+ - Utiliser la formule Haversine pour le calcul de distance vol d'oiseau
+ - Demander si [@cobaltpoitiers](https://twitter.com/cobaltpoitiers) prévoit un budget pour un compte premium Google Distance Matrix API, permettant un calcul de distance plus réel (ex: le plus proche à vol d'oiseau n'est pas forcément le plus rapide à atteindre)
+ - Workflow propre gulp et angular2
+ - Utiliser la [BAN](http://adresse.data.gouv.fr) pour résoudre les adresses
