@@ -9,11 +9,11 @@ Projet perso d'application cross platform permettant de trouver le défibrilateu
  - Workflow propre gulp et angular2
  - Utiliser la [BAN](http://adresse.data.gouv.fr) pour résoudre les adresses
  - Palette de couleurs :
-    - ![#909CAF](http://placehold.it/15/909CAF/000000?text=+) `#909CAF`
-    - ![#FEFFFF](http://placehold.it/15/FEFFFF/000000?text=+) `#FEFFFF`
-    - ![#3D5476](http://placehold.it/15/3D5476/000000?text=+) `#3D5476`
-    - ![#839CB2](http://placehold.it/15/839CB2/000000?text=+) `#839CB2`
-    - ![#CDEBFE](http://placehold.it/15/CDEBFE/000000?text=+) `#CDEBFE`
-    - ![#6B7D94](http://placehold.it/15/6B7D94/000000?text=+) `#6B7D94`
-    - ![#A1C8DF](http://placehold.it/15/A1C8DF/000000?text=+) `#A1C8DF`
-    - ![#CDD3DB](http://placehold.it/15/CDD3DB/000000?text=+) `#CDD3DB`
+    - ![#909CAF](http://placehold.it/50/909CAF/000000?text=+) `#909CAF`
+    - ![#FEFFFF](http://placehold.it/50/FEFFFF/000000?text=+) `#FEFFFF`
+    - ![#3D5476](http://placehold.it/50/3D5476/000000?text=+) `#3D5476`
+    - ![#839CB2](http://placehold.it/50/839CB2/000000?text=+) `#839CB2`
+    - ![#CDEBFE](http://placehold.it/50/CDEBFE/000000?text=+) `#CDEBFE`
+    - ![#6B7D94](http://placehold.it/50/6B7D94/000000?text=+) `#6B7D94`
+    - ![#A1C8DF](http://placehold.it/50/A1C8DF/000000?text=+) `#A1C8DF`
+    - ![#CDD3DB](http://placehold.it/50/CDD3DB/000000?text=+) `#CDD3DB`
