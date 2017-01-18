@@ -1,0 +1,22 @@
+{
+  "name": "defib",
+  "version": "1.0.0",
+  "description": "Projet perso d'application cross platform permettant de trouver le défibrilateur le plus proche de sa position actuelle.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaliel86/defibrilateurs-poitiers.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaliel86/defibrilateurs-poitiers/issues"
+  },
+  "homepage": "https://github.com/kaliel86/defibrilateurs-poitiers#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
